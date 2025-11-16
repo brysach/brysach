@@ -2,18 +2,21 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>[Blackjack](https://github.com/brysach/Blackjack)</b>
 - <b>[Reading-Crystal-Ball](https://github.com/brysach/Reading-Crystal-Ball)</b>
+- <b>[Mock-Trial-Website](https://github.com/acm-ucr/mock-trial-website)</b>
+- <b>[Blackjack](https://github.com/brysach/Blackjack)</b>
 
-<h2>🎒Course Projects:</h2>
+<h2>🎒 Course Projects:</h2>
 
 - <b>[RSA-Cryptography](https://github.com/brysach/RSA-Cryptosystem-Assignment)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Bryan Estrada | LinkedIn" width="30px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />][linkedin]
+[<img align = "left" alt="Bryan Estrada | Email" width="30px" src="https://www.svgrepo.com/show/468758/email.svg" />][email]
 
 [linkedin]: https://www.linkedin.com/in/bryanestradac/
+[email]: mailto:bryan.estradach@gmail.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
