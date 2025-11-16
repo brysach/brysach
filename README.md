@@ -4,7 +4,6 @@
 
 - <b>[Blackjack](https://github.com/brysach/Blackjack)</b>
 - <b>[Reading-Crystal-Ball](https://github.com/brysach/Reading-Crystal-Ball)</b>
-<h2> 🤳 Connect with me:</h2>
 
 <h2>🎒Course Projects:</h2>
 
