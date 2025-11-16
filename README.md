@@ -10,8 +10,6 @@
 
 - <b>[RSA-Cryptography](https://github.com/brysach/RSA-Cryptosystem-Assignment)</b>
 
-- <b>[Blackjack](https://github.com/brysach/Blackjack)</b>
-- <b>[Reading-Crystal-Ball](https://github.com/brysach/Reading-Crystal-Ball)</b>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
